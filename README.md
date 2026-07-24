@@ -1,12 +1,12 @@
 <table width="100%">
   <tr>
-    <td width="62%" valign="top">
-      <h1>Hola, soy <strong>Janover Saldaña</strong></h1>
-      <p>
-        <strong>Ingeniero de Software</strong>
-        · Cofundador @
-        <a href="https://www.metasoft.pe/"><strong>Metasoft Solutions</strong></a>
-      </p>
+    <td width="64%" valign="middle">
+      <h2>Hola, soy</h2>
+      <img src="./assets/sections/name-gradient.png" alt="Janover Saldaña" height="42" />
+      <br />
+      <a href="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1200&color=60A5FA&center=false&vCenter=true&width=560&height=36&lines=Ingeniero+de+Software;Cofundador+%40+Metasoft+Solutions;Android+Developer+%40+NTT+DATA;SaaS+%C2%B7+Cloud+%C2%B7+IA+aplicada">
+        <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1200&color=60A5FA&center=false&vCenter=true&width=560&height=36&lines=Ingeniero+de+Software;Cofundador+%40+Metasoft+Solutions;Android+Developer+%40+NTT+DATA;SaaS+%C2%B7+Cloud+%C2%B7+IA+aplicada" alt="Ingeniero de Software · Cofundador @ Metasoft Solutions" />
+      </a>
       <p>
         Diseño y construyo software en producción: SaaS, apps móviles, cloud e IA
         aplicada a operaciones reales. Del discovery a producción, con arquitectura
@@ -18,42 +18,28 @@
         <a href="mailto:janover@metasoft.pe"><img src="https://img.shields.io/badge/Email-janover@metasoft.pe-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1526" alt="Email" /></a>
       </p>
     </td>
-    <td width="4%"></td>
-    <td width="34%" valign="top">
-      <h3>Ahora</h3>
-      <p>
-        <strong>NTT DATA</strong> — Android<br />
-        <strong>Metasoft</strong> — Cofundador<br />
-        <strong>Lima, Perú</strong>
-      </p>
-      <h3>Enfoque</h3>
-      <p>
-        SaaS · Enterprise · IA<br />
-        Android · Cloud · IoT
-      </p>
-      <p>
-        <a href="#impacto-en-producción"><strong>Ver impacto →</strong></a>
-        &nbsp;·&nbsp;
-        <a href="#trayectoria"><strong>Trayectoria →</strong></a>
-      </p>
+    <td width="36%" align="center" valign="middle">
+      <img src="./assets/sections/ahora-panel.png" alt="Ahora: NTT DATA Android · Metasoft Cofundador · Lima, Perú" width="100%" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/JanoverSaldana">
+    <img src="https://github-readme-stats.vercel.app/api?username=JanoverSaldana&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a855f7&text_color=e2e8f0" alt="GitHub stats" height="150" />
+  </a>
+  <a href="https://github.com/JanoverSaldana">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanoverSaldana&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e2e8f0" alt="Top languages" height="150" />
+  </a>
+</p>
 
 ---
 
 ## Enfoque
 
-<table width="100%">
-  <tr>
-    <td width="16%" align="center" valign="top"><strong>SaaS</strong><br /><sub>Plataformas</sub></td>
-    <td width="17%" align="center" valign="top"><strong>Enterprise</strong><br /><sub>Software</sub></td>
-    <td width="16%" align="center" valign="top"><strong>IA</strong><br /><sub>Aplicada</sub></td>
-    <td width="17%" align="center" valign="top"><strong>Android</strong><br /><sub>Nativo</sub></td>
-    <td width="17%" align="center" valign="top"><strong>Cloud</strong><br /><sub>Arquitectura</sub></td>
-    <td width="17%" align="center" valign="top"><strong>IoT</strong><br /><sub>Campo</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/sections/building-tiles.png" alt="SaaS · Enterprise · IA · Android · Cloud · IoT" width="100%" />
+</p>
 
 ---
 

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-label="Ahora">
+  <defs>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#22c55e" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="dot" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="320" rx="18" fill="#0d1117"/>
+  <rect x="1.5" y="1.5" width="357" height="317" rx="17" fill="#0a1220" stroke="url(#border)" stroke-width="1.5"/>
+
+  <circle cx="32" cy="36" r="5" fill="url(#dot)">
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="46" y="41" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.5">AHORA</text>
+
+  <text x="28" y="88" fill="#e2e8f0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">NTT DATA</text>
+  <text x="28" y="112" fill="#60a5fa" font-family="Segoe UI,Arial,sans-serif" font-size="14">Android Developer</text>
+
+  <line x1="28" y1="136" x2="332" y2="136" stroke="#1e3a5f" stroke-width="1"/>
+
+  <text x="28" y="170" fill="#e2e8f0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">Metasoft Solutions</text>
+  <text x="28" y="194" fill="#4ade80" font-family="Segoe UI,Arial,sans-serif" font-size="14">Cofundador</text>
+
+  <line x1="28" y1="218" x2="332" y2="218" stroke="#1e3a5f" stroke-width="1"/>
+
+  <text x="28" y="252" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="13">Ubicaci&#243;n</text>
+  <text x="28" y="278" fill="#e2e8f0" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Lima, Per&#250;</text>
+</svg>
