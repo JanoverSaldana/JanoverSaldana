@@ -1,28 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="90" viewBox="0 0 1100 90" role="img" aria-label="Metasoft services">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="100" viewBox="0 0 1100 100" role="img" aria-label="Metasoft services">
+  <rect width="1100" height="100" fill="#0d1117"/>
   <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
-    <!-- SaaS -->
-    <rect x="20" y="10" width="160" height="70" rx="12" fill="#0d1526" stroke="#1e3a5f"/>
-    <text x="100" y="40" font-size="20"></text>
-    <text x="100" y="62" fill="#cbd5e1" font-size="11" font-weight="600">SaaS Products</text>
-    <!-- Enterprise -->
-    <rect x="200" y="10" width="160" height="70" rx="12" fill="#0d1526" stroke="#3b1d6e"/>
-    <text x="280" y="40" font-size="20"><â</text>
-    <text x="280" y="62" fill="#cbd5e1" font-size="11" font-weight="600">Enterprise Platforms</text>
-    <!-- Mobile -->
-    <rect x="380" y="10" width="160" height="70" rx="12" fill="#0d1526" stroke="#14532d"/>
-    <text x="460" y="40" font-size="20">=ñ</text>
-    <text x="460" y="62" fill="#cbd5e1" font-size="11" font-weight="600">Mobile Apps</text>
-    <!-- AI -->
-    <rect x="560" y="10" width="160" height="70" rx="12" fill="#0d1526" stroke="#6b21a8"/>
-    <text x="640" y="40" font-size="20">>à</text>
-    <text x="640" y="62" fill="#cbd5e1" font-size="11" font-weight="600">AI Solutions</text>
-    <!-- Cloud -->
-    <rect x="740" y="10" width="160" height="70" rx="12" fill="#0d1526" stroke="#155e75"/>
-    <text x="820" y="40" font-size="20">™</text>
-    <text x="820" y="62" fill="#cbd5e1" font-size="11" font-weight="600">Cloud Services</text>
-    <!-- Digital -->
-    <rect x="920" y="10" width="160" height="70" rx="12" fill="#0d1526" stroke="#1e3a5f"/>
-    <text x="1000" y="40" font-size="20">=€</text>
-    <text x="1000" y="62" fill="#cbd5e1" font-size="11" font-weight="600">Digital Transform.</text>
+    <rect x="20" y="12" width="160" height="76" rx="12" fill="#0d1526" stroke="#1e3a5f"/>
+    <g transform="translate(88,28)" fill="none" stroke="#60a5fa" stroke-width="2">
+      <rect x="0" y="4" width="24" height="16" rx="3"/>
+      <path d="M4 10h16M4 14h10"/>
+    </g>
+    <text x="100" y="72" fill="#cbd5e1" font-size="11" font-weight="600">SaaS Products</text>
+
+    <rect x="200" y="12" width="160" height="76" rx="12" fill="#0d1526" stroke="#3b1d6e"/>
+    <g transform="translate(268,26)" fill="#a78bfa">
+      <rect x="0" y="8" width="8" height="14" rx="1"/>
+      <rect x="12" y="4" width="8" height="18" rx="1"/>
+      <rect x="24" y="0" width="8" height="22" rx="1"/>
+    </g>
+    <text x="280" y="72" fill="#cbd5e1" font-size="11" font-weight="600">Enterprise Platforms</text>
+
+    <rect x="380" y="12" width="160" height="76" rx="12" fill="#0d1526" stroke="#14532d"/>
+    <g transform="translate(452,26)" fill="none" stroke="#4ade80" stroke-width="2">
+      <rect x="6" y="0" width="16" height="24" rx="3"/>
+      <circle cx="14" cy="20" r="1.2" fill="#4ade80" stroke="none"/>
+    </g>
+    <text x="460" y="72" fill="#cbd5e1" font-size="11" font-weight="600">Mobile Apps</text>
+
+    <rect x="560" y="12" width="160" height="76" rx="12" fill="#0d1526" stroke="#6b21a8"/>
+    <g transform="translate(632,28)" fill="none" stroke="#e879f9" stroke-width="2">
+      <circle cx="12" cy="12" r="8"/>
+      <circle cx="12" cy="12" r="3" fill="#e879f9" stroke="none"/>
+      <circle cx="2" cy="4" r="2" fill="#e879f9" stroke="none"/>
+      <circle cx="22" cy="4" r="2" fill="#e879f9" stroke="none"/>
+      <circle cx="2" cy="20" r="2" fill="#e879f9" stroke="none"/>
+      <circle cx="22" cy="20" r="2" fill="#e879f9" stroke="none"/>
+    </g>
+    <text x="640" y="72" fill="#cbd5e1" font-size="11" font-weight="600">AI Solutions</text>
+
+    <rect x="740" y="12" width="160" height="76" rx="12" fill="#0d1526" stroke="#155e75"/>
+    <g transform="translate(812,30)" fill="#22d3ee">
+      <path d="M6 18h18a7 7 0 0 0 0-14 9 9 0 0 0-17 3.5A5.5 5.5 0 0 0 6 18z"/>
+    </g>
+    <text x="820" y="72" fill="#cbd5e1" font-size="11" font-weight="600">Cloud Services</text>
+
+    <rect x="920" y="12" width="160" height="76" rx="12" fill="#0d1526" stroke="#1e3a5f"/>
+    <g transform="translate(992,28)" fill="none" stroke="#60a5fa" stroke-width="2" stroke-linecap="round">
+      <path d="M12 2v20M4 10l8-8 8 8"/>
+      <path d="M4 22h16"/>
+    </g>
+    <text x="1000" y="72" fill="#cbd5e1" font-size="11" font-weight="600">Digital Transform.</text>
   </g>
 </svg>
