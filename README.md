@@ -164,9 +164,48 @@
 
 ## Trayectoria profesional
 
-<p align="center">
-  <img src="./assets/sections/journey.png" alt="Línea de tiempo profesional" width="100%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="16%" align="center" valign="top">
+      <sub>May 2026 – Presente</sub><br /><br />
+      <img src="./assets/logos/journey/ntt-data.png" width="72" height="72" alt="NTT DATA" /><br /><br />
+      <strong>NTT DATA</strong><br />
+      <sub>Desarrollador Android</sub>
+    </td>
+    <td width="16%" align="center" valign="top">
+      <sub>Nov 2023 – Presente</sub><br /><br />
+      <img src="./assets/logos/journey/metasoft.png" width="72" height="72" alt="Metasoft Solutions" /><br /><br />
+      <strong>Metasoft Solutions</strong><br />
+      <sub>Cofundador e Ingeniero de Software</sub>
+    </td>
+    <td width="16%" align="center" valign="top">
+      <sub>Nov 2025</sub><br /><br />
+      <img src="./assets/logos/journey/tracker.png" width="72" height="72" alt="Tracker Mobility" /><br /><br />
+      <strong>Tracker Mobility</strong><br />
+      <sub>Producción · 2 clientes</sub>
+    </td>
+    <td width="16%" align="center" valign="top">
+      <sub>2025</sub><br /><br />
+      <img src="./assets/logos/journey/gastrosuite.png" width="72" height="72" alt="GastroSuite" /><br /><br />
+      <strong>GastroSuite SaaS</strong><br />
+      <sub>Plataforma para restaurantes</sub>
+    </td>
+    <td width="16%" align="center" valign="top">
+      <sub>Jul – Oct 2025</sub><br /><br />
+      <img src="./assets/logos/journey/millennium.png" width="72" height="72" alt="Millennium Mobility" /><br /><br />
+      <strong>Millennium Mobility</strong><br />
+      <sub>App Lizzo · Frontend UX/UI</sub>
+    </td>
+    <td width="16%" align="center" valign="top">
+      <sub>Oct 2025 – Abr 2026</sub><br /><br />
+      <img src="./assets/logos/journey/storagedata.png" width="72" height="72" alt="StorageData SAC" /><br /><br />
+      <strong>StorageData SAC</strong><br />
+      <sub>Cloud y DevOps · Huawei Cloud</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <table width="100%">
   <thead>
