@@ -1,9 +1,7 @@
 <table width="100%">
   <tr>
     <td width="64%" valign="middle">
-      <h2>Hola, soy</h2>
-      <img src="./assets/sections/name-gradient.png" alt="Janover Saldaña" height="42" />
-      <br />
+      <h1>Hola, soy Janover Saldaña</h1>
       <a href="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1200&color=60A5FA&center=false&vCenter=true&width=560&height=36&lines=Ingeniero+de+Software;Cofundador+%40+Metasoft+Solutions;Android+Developer+%40+NTT+DATA;SaaS+%C2%B7+Cloud+%C2%B7+IA+aplicada">
         <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1200&color=60A5FA&center=false&vCenter=true&width=560&height=36&lines=Ingeniero+de+Software;Cofundador+%40+Metasoft+Solutions;Android+Developer+%40+NTT+DATA;SaaS+%C2%B7+Cloud+%C2%B7+IA+aplicada" alt="Ingeniero de Software · Cofundador @ Metasoft Solutions" />
       </a>
