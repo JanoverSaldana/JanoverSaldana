@@ -7,9 +7,11 @@
         Building software that solves real-world problems through scalable architectures, AI and modern cloud technologies.
       </p>
       <p>
-        <a href="https://www.metasoft.pe/"><img src="https://img.shields.io/badge/Website-metasoft.pe-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=60a5fa&labelColor=0d1526" alt="Website"/></a>
-        <a href="https://www.linkedin.com/in/janover-salda%C3%B1a-6a72a6338"><img src="https://img.shields.io/badge/LinkedIn-Janover_Saldaña-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1526" alt="LinkedIn"/></a>
-        <a href="mailto:janover@metasoft.pe"><img src="https://img.shields.io/badge/Email-janover@metasoft.pe-1e3a5f?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1526" alt="Email"/></a>
+        <a href="https://www.metasoft.pe/"><img src="https://img.shields.io/badge/Website-metasoft.pe-1e3a5f?style=flat-square&logo=googlechrome&logoColor=60a5fa&labelColor=0d1526" alt="Website" height="28"/></a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/janover-salda%C3%B1a-6a72a6338"><img src="https://img.shields.io/badge/LinkedIn-Janover_Saldaña-1e3a5f?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0d1526" alt="LinkedIn" height="28"/></a>
+        &nbsp;
+        <a href="mailto:janover@metasoft.pe"><img src="https://img.shields.io/badge/Email-janover@metasoft.pe-1e3a5f?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=0d1526" alt="Email" height="28"/></a>
       </p>
     </td>
     <td width="42%" align="center" valign="middle">
