@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td width="58%" valign="middle">
+    <td width="55%" valign="top">
       <img src="./assets/sections/hero-title.png" alt="Hola, soy Janover Saldaña — Ingeniero de Software · Cofundador @ Metasoft Solutions" width="100%" />
       <br />
       <p>
@@ -15,8 +15,8 @@
         <a href="mailto:janover@metasoft.pe"><img src="https://img.shields.io/badge/Email-janover@metasoft.pe-1e3a5f?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=0d1526" alt="Email" height="28" /></a>
       </p>
     </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="./assets/hero-illustration.png" alt="Ilustración de desarrollo de software" width="340" />
+    <td width="45%" align="center" valign="top">
+      <img src="./assets/hero-illustration.png" alt="Ilustración de desarrollo de software" width="100%" />
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://www.metasoft.pe/proyectos/tracker-mobility-plataforma-web">
-        <img src="https://www.metasoft.pe/img/content/tracker-mobility-plataforma-web/1-tracker-platform-web-800.webp" width="200" height="120" alt="Tracker Mobility" />
+        <img src="https://www.metasoft.pe/img/content/tracker-mobility-plataforma-web/1-tracker-platform-web-800.webp" width="100%" alt="Tracker Mobility" />
       </a>
       <br /><br />
       <strong>Tracker Mobility</strong>
@@ -48,9 +48,9 @@
         <sub>Vue.js · Spring Boot · PostgreSQL · OpenAI</sub>
       </p>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="34%" valign="top" align="center">
       <a href="https://www.metasoft.pe/proyectos/millennium-access-control">
-        <img src="https://www.metasoft.pe/img/content/millennium-access-control/1-millennium-access-control-800.webp" width="200" height="120" alt="Plataforma de Planta" />
+        <img src="https://www.metasoft.pe/img/content/millennium-access-control/1-millennium-access-control-800.webp" width="100%" alt="Plataforma de Planta" />
       </a>
       <br /><br />
       <strong>Plataforma de Planta</strong>
@@ -63,7 +63,7 @@
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://www.metasoft.pe/proyectos/lizzo-app">
-        <img src="https://www.metasoft.pe/img/content/lizzo-app-ui-ux/2-800.webp" width="200" height="120" alt="Lizzo App" />
+        <img src="https://www.metasoft.pe/img/content/lizzo-app-ui-ux/2-800.webp" width="100%" alt="Lizzo App" />
       </a>
       <br /><br />
       <strong>Lizzo App</strong>
@@ -104,7 +104,7 @@
 
 <table width="100%">
   <tr>
-    <td width="62%" valign="middle">
+    <td width="65%" valign="middle">
       <blockquote>
         <p>
           <em>« Empoderar a empresas con tecnología de calidad, diseñada para escalar y generar impacto real en sus negocios. »</em>
@@ -114,9 +114,9 @@
         Como cofundador lidero el ciclo completo: discovery → arquitectura → desarrollo → producción.
       </p>
     </td>
-    <td width="38%" align="center" valign="middle">
+    <td width="35%" align="center" valign="middle">
       <a href="https://www.metasoft.pe/">
-        <img src="./assets/logo-metasoft-bg-black.png" alt="Metasoft Solutions" width="240" />
+        <img src="./assets/logo-metasoft-bg-black.png" alt="Metasoft Solutions" width="100%" />
       </a>
     </td>
   </tr>
@@ -130,37 +130,37 @@
   <tr>
     <td width="16%" align="center" valign="top">
       <sub>May 2026 – Hoy</sub><br /><br />
-      <img src="./assets/logos/journey/ntt-data.png" width="88" height="88" alt="NTT DATA" /><br /><br />
+      <img src="./assets/logos/journey/ntt-data.png" width="100%" alt="NTT DATA" /><br /><br />
       <strong>NTT DATA</strong><br />
       <sub>Android</sub>
     </td>
-    <td width="16%" align="center" valign="top">
+    <td width="17%" align="center" valign="top">
       <sub>Nov 2023 – Hoy</sub><br /><br />
-      <img src="./assets/logos/journey/metasoft.png" width="88" height="88" alt="Metasoft Solutions" /><br /><br />
+      <img src="./assets/logos/journey/metasoft.png" width="100%" alt="Metasoft Solutions" /><br /><br />
       <strong>Metasoft</strong><br />
       <sub>Cofundador</sub>
     </td>
     <td width="16%" align="center" valign="top">
       <sub>2025</sub><br /><br />
-      <img src="./assets/logos/journey/tracker.png" width="88" height="88" alt="Tracker Mobility" /><br /><br />
+      <img src="./assets/logos/journey/tracker.png" width="100%" alt="Tracker Mobility" /><br /><br />
       <strong>Tracker</strong><br />
       <sub>Producción</sub>
     </td>
-    <td width="16%" align="center" valign="top">
+    <td width="17%" align="center" valign="top">
       <sub>2025</sub><br /><br />
-      <img src="./assets/logos/journey/gastrosuite.png" width="88" height="88" alt="GastroSuite" /><br /><br />
+      <img src="./assets/logos/journey/gastrosuite.png" width="100%" alt="GastroSuite" /><br /><br />
       <strong>GastroSuite</strong><br />
       <sub>SaaS</sub>
     </td>
-    <td width="16%" align="center" valign="top">
+    <td width="17%" align="center" valign="top">
       <sub>Jul–Oct 2025</sub><br /><br />
-      <img src="./assets/logos/journey/millennium.png" width="88" height="88" alt="Millennium Mobility" /><br /><br />
+      <img src="./assets/logos/journey/millennium.png" width="100%" alt="Millennium Mobility" /><br /><br />
       <strong>Millennium</strong><br />
       <sub>UX/UI Lizzo</sub>
     </td>
-    <td width="16%" align="center" valign="top">
+    <td width="17%" align="center" valign="top">
       <sub>Oct 2025–Abr 2026</sub><br /><br />
-      <img src="./assets/logos/journey/storagedata.png" width="88" height="88" alt="StorageData SAC" /><br /><br />
+      <img src="./assets/logos/journey/storagedata.png" width="100%" alt="StorageData SAC" /><br /><br />
       <strong>StorageData</strong><br />
       <sub>Cloud / DevOps</sub>
     </td>
@@ -172,7 +172,7 @@
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,vue,angular,ts,flutter,kotlin,mysql,postgres,redis,docker,linux,git,figma" alt="Stack: Java, Spring, .NET, Vue, Angular, TypeScript, Flutter, Kotlin, MySQL, PostgreSQL, Redis, Docker, Linux, Git, Figma" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,vue,angular,ts,flutter,kotlin,mysql,postgres,redis,docker,linux,git,figma" width="100%" alt="Stack: Java, Spring, .NET, Vue, Angular, TypeScript, Flutter, Kotlin, MySQL, PostgreSQL, Redis, Docker, Linux, Git, Figma" />
 </p>
 
 <p align="center">
@@ -188,9 +188,19 @@
 
 ## Roadmap 2026
 
-- Escalar <strong>GastroSuite</strong> y llevar más productos Metasoft a producción
-- Certificación <strong>AWS</strong> y profundizar <strong>Android</strong> en NTT DATA
-- Productos con <strong>IA aplicada</strong> y contribución a Open Source
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      Escalar <strong>GastroSuite</strong> y llevar más productos Metasoft a producción
+    </td>
+    <td width="34%" valign="top">
+      Certificación <strong>AWS</strong> y profundizar <strong>Android</strong> en NTT DATA
+    </td>
+    <td width="33%" valign="top">
+      Productos con <strong>IA aplicada</strong> y contribución a Open Source
+    </td>
+  </tr>
+</table>
 
 ---
 
