@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="Hi, I am Janover Saldana">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="Hola, soy Janover Saldana">
   <defs>
     <linearGradient id="nameBlue" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#60a5fa"/>
@@ -10,10 +10,10 @@
     </linearGradient>
   </defs>
   <rect width="900" height="120" fill="#0d1117"/>
-  <text x="0" y="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="700" fill="#e2e8f0">Hi, I'm </text>
-  <text x="158" y="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="url(#nameBlue)">Janover</text>
-  <text x="340" y="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="url(#namePurple)">Salda&#241;a</text>
-  <text x="0" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#94a3b8">Software Engineer</text>
-  <text x="175" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#64748b">&#8226;</text>
-  <text x="195" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#4ade80">Co-founder @ Metasoft Solutions</text>
+  <text x="0" y="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="700" fill="#e2e8f0">Hola, soy </text>
+  <text x="200" y="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="url(#nameBlue)">Janover</text>
+  <text x="382" y="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="url(#namePurple)">Salda&#241;a</text>
+  <text x="0" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#94a3b8">Ingeniero de Software</text>
+  <text x="195" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#64748b">&#8226;</text>
+  <text x="215" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#4ade80">Cofundador @ Metasoft Solutions</text>
 </svg>
