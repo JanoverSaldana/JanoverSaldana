@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="Hi, I'm Janover Saldaña">
+  <defs>
+    <linearGradient id="nameBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="namePurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="700" fill="#e2e8f0">Hi, I'm </text>
+  <text x="158" y="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="url(#nameBlue)">Janover</text>
+  <text x="340" y="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="url(#namePurple)">Saldaña</text>
+  <text x="0" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#94a3b8">Software Engineer</text>
+  <text x="178" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#64748b">"</text>
+  <text x="198" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#4ade80">Co-founder @ Metasoft Solutions</text>
+</svg>
