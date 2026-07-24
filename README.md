@@ -26,10 +26,10 @@
 
 <p align="center">
   <a href="https://github.com/JanoverSaldana">
-    <img src="https://github-readme-stats.vercel.app/api?username=JanoverSaldana&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a855f7&text_color=e2e8f0" alt="GitHub stats" height="150" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=JanoverSaldana&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a855f7&text_color=e2e8f0" alt="GitHub stats" height="150" />
   </a>
   <a href="https://github.com/JanoverSaldana">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanoverSaldana&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e2e8f0" alt="Top languages" height="150" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JanoverSaldana&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e2e8f0" alt="Top languages" height="150" />
   </a>
 </p>
 
