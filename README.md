@@ -1,18 +1,59 @@
-# Hola, soy Janover Saldaña
-
-**Ingeniero de Software · Cofundador @ [Metasoft Solutions](https://www.metasoft.pe/)**
-
-Cofundador de [**Metasoft Solutions**](https://www.metasoft.pe/). Diseño y construyo software en producción: SaaS, apps móviles, cloud e IA aplicada a operaciones reales.
-
-[Sitio web](https://www.metasoft.pe/) · [LinkedIn](https://www.linkedin.com/in/janover-salda%C3%B1a-6a72a6338) · [Email](mailto:janover@metasoft.pe)
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top">
+      <h1>Hola, soy <strong>Janover Saldaña</strong></h1>
+      <p>
+        <strong>Ingeniero de Software</strong>
+        · Cofundador @
+        <a href="https://www.metasoft.pe/"><strong>Metasoft Solutions</strong></a>
+      </p>
+      <p>
+        Diseño y construyo software en producción: SaaS, apps móviles, cloud e IA
+        aplicada a operaciones reales. Del discovery a producción, con arquitectura
+        escalable e impacto medible.
+      </p>
+      <p>
+        <a href="https://www.metasoft.pe/"><img src="https://img.shields.io/badge/Sitio_web-metasoft.pe-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=60a5fa&labelColor=0d1526" alt="Sitio web" /></a>
+        <a href="https://www.linkedin.com/in/janover-salda%C3%B1a-6a72a6338"><img src="https://img.shields.io/badge/LinkedIn-Janover_Saldaña-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1526" alt="LinkedIn" /></a>
+        <a href="mailto:janover@metasoft.pe"><img src="https://img.shields.io/badge/Email-janover@metasoft.pe-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1526" alt="Email" /></a>
+      </p>
+    </td>
+    <td width="4%"></td>
+    <td width="34%" valign="top">
+      <h3>Ahora</h3>
+      <p>
+        <strong>NTT DATA</strong> — Android<br />
+        <strong>Metasoft</strong> — Cofundador<br />
+        <strong>Lima, Perú</strong>
+      </p>
+      <h3>Enfoque</h3>
+      <p>
+        SaaS · Enterprise · IA<br />
+        Android · Cloud · IoT
+      </p>
+      <p>
+        <a href="#impacto-en-producción"><strong>Ver impacto →</strong></a>
+        &nbsp;·&nbsp;
+        <a href="#trayectoria"><strong>Trayectoria →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Enfoque
 
-<p align="center">
-  <img src="./assets/sections/building-tiles.png" alt="SaaS · Enterprise · IA · Android · Cloud · IoT" width="100%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="16%" align="center" valign="top"><strong>SaaS</strong><br /><sub>Plataformas</sub></td>
+    <td width="17%" align="center" valign="top"><strong>Enterprise</strong><br /><sub>Software</sub></td>
+    <td width="16%" align="center" valign="top"><strong>IA</strong><br /><sub>Aplicada</sub></td>
+    <td width="17%" align="center" valign="top"><strong>Android</strong><br /><sub>Nativo</sub></td>
+    <td width="17%" align="center" valign="top"><strong>Cloud</strong><br /><sub>Arquitectura</sub></td>
+    <td width="17%" align="center" valign="top"><strong>IoT</strong><br /><sub>Campo</sub></td>
+  </tr>
+</table>
 
 ---
 
