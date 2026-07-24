@@ -1,25 +1,10 @@
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <img src="./assets/sections/hero-title.png" alt="Hola, soy Janover Saldaña — Ingeniero de Software · Cofundador @ Metasoft Solutions" width="100%" />
-      <br />
-      <p>
-        Cofundador de <a href="https://www.metasoft.pe/"><strong>Metasoft Solutions</strong></a>.
-        Diseño y construyo software en producción: SaaS, apps móviles, cloud e IA aplicada a operaciones reales.
-      </p>
-      <p>
-        <a href="https://www.metasoft.pe/"><img src="https://img.shields.io/badge/Sitio_web-metasoft.pe-1e3a5f?style=flat-square&logo=googlechrome&logoColor=60a5fa&labelColor=0d1526" alt="Sitio web" height="28" /></a>
-        &nbsp;
-        <a href="https://www.linkedin.com/in/janover-salda%C3%B1a-6a72a6338"><img src="https://img.shields.io/badge/LinkedIn-Janover_Saldaña-1e3a5f?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0d1526" alt="LinkedIn" height="28" /></a>
-        &nbsp;
-        <a href="mailto:janover@metasoft.pe"><img src="https://img.shields.io/badge/Email-janover@metasoft.pe-1e3a5f?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=0d1526" alt="Email" height="28" /></a>
-      </p>
-    </td>
-    <td width="45%" align="center" valign="top">
-      <img src="./assets/hero-illustration.png" alt="Ilustración de desarrollo de software" width="100%" />
-    </td>
-  </tr>
-</table>
+# Hola, soy Janover Saldaña
+
+**Ingeniero de Software · Cofundador @ [Metasoft Solutions](https://www.metasoft.pe/)**
+
+Cofundador de [**Metasoft Solutions**](https://www.metasoft.pe/). Diseño y construyo software en producción: SaaS, apps móviles, cloud e IA aplicada a operaciones reales.
+
+[Sitio web](https://www.metasoft.pe/) · [LinkedIn](https://www.linkedin.com/in/janover-salda%C3%B1a-6a72a6338) · [Email](mailto:janover@metasoft.pe)
 
 ---
 
