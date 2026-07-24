@@ -130,37 +130,37 @@
   <tr>
     <td width="16%" align="center" valign="top">
       <sub>May 2026 – Hoy</sub><br /><br />
-      <img src="./assets/logos/journey/ntt-data.png" width="64" height="64" alt="NTT DATA" /><br />
+      <img src="./assets/logos/journey/ntt-data.png" width="88" height="88" alt="NTT DATA" /><br /><br />
       <strong>NTT DATA</strong><br />
       <sub>Android</sub>
     </td>
     <td width="16%" align="center" valign="top">
       <sub>Nov 2023 – Hoy</sub><br /><br />
-      <img src="./assets/logos/journey/metasoft.png" width="64" height="64" alt="Metasoft" /><br />
+      <img src="./assets/logos/journey/metasoft.png" width="88" height="88" alt="Metasoft Solutions" /><br /><br />
       <strong>Metasoft</strong><br />
       <sub>Cofundador</sub>
     </td>
     <td width="16%" align="center" valign="top">
       <sub>2025</sub><br /><br />
-      <img src="./assets/logos/journey/tracker.png" width="64" height="64" alt="Tracker" /><br />
+      <img src="./assets/logos/journey/tracker.png" width="88" height="88" alt="Tracker Mobility" /><br /><br />
       <strong>Tracker</strong><br />
       <sub>Producción</sub>
     </td>
     <td width="16%" align="center" valign="top">
       <sub>2025</sub><br /><br />
-      <img src="./assets/logos/journey/gastrosuite.png" width="64" height="64" alt="GastroSuite" /><br />
+      <img src="./assets/logos/journey/gastrosuite.png" width="88" height="88" alt="GastroSuite" /><br /><br />
       <strong>GastroSuite</strong><br />
       <sub>SaaS</sub>
     </td>
     <td width="16%" align="center" valign="top">
       <sub>Jul–Oct 2025</sub><br /><br />
-      <img src="./assets/logos/journey/millennium.png" width="64" height="64" alt="Millennium" /><br />
+      <img src="./assets/logos/journey/millennium.png" width="88" height="88" alt="Millennium Mobility" /><br /><br />
       <strong>Millennium</strong><br />
       <sub>UX/UI Lizzo</sub>
     </td>
     <td width="16%" align="center" valign="top">
       <sub>Oct 2025–Abr 2026</sub><br /><br />
-      <img src="./assets/logos/journey/storagedata.png" width="64" height="64" alt="StorageData" /><br />
+      <img src="./assets/logos/journey/storagedata.png" width="88" height="88" alt="StorageData SAC" /><br /><br />
       <strong>StorageData</strong><br />
       <sub>Cloud / DevOps</sub>
     </td>
