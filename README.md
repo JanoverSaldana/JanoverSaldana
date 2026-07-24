@@ -10,17 +10,18 @@
         aplicada a operaciones reales. Del discovery a producción, con arquitectura
         escalable e impacto medible.
       </p>
-      <p>
-        <a href="https://www.metasoft.pe/"><img src="https://img.shields.io/badge/Sitio_web-metasoft.pe-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=60a5fa&labelColor=0d1526" alt="Sitio web" /></a>
-        <a href="https://www.linkedin.com/in/janover-salda%C3%B1a-6a72a6338"><img src="https://img.shields.io/badge/LinkedIn-Janover_Saldaña-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1526" alt="LinkedIn" /></a>
-        <a href="mailto:janover@metasoft.pe"><img src="https://img.shields.io/badge/Email-janover@metasoft.pe-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1526" alt="Email" /></a>
-      </p>
     </td>
     <td width="36%" align="center" valign="middle">
       <img src="./assets/sections/ahora-panel.png" alt="Ahora: NTT DATA Android · Metasoft Cofundador · Lima, Perú" width="100%" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://www.metasoft.pe/"><img src="https://img.shields.io/badge/Sitio_web-metasoft.pe-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=60a5fa&labelColor=0d1526" alt="Sitio web" /></a>
+  <a href="https://www.linkedin.com/in/janover-salda%C3%B1a-6a72a6338"><img src="https://img.shields.io/badge/LinkedIn-Janover_Saldaña-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1526" alt="LinkedIn" /></a>
+  <a href="mailto:janover@metasoft.pe"><img src="https://img.shields.io/badge/Email-janover@metasoft.pe-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1526" alt="Email" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/JanoverSaldana">
@@ -215,8 +216,8 @@
 ---
 
 <p align="center">
-  <a href="https://www.metasoft.pe/"><img src="https://img.shields.io/badge/metasoft.pe-0d1526?style=for-the-badge&logo=googlechrome&logoColor=60a5fa" alt="Sitio web" /></a>
-  <a href="https://www.linkedin.com/in/janover-salda%C3%B1a-6a72a6338"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:janover@metasoft.pe"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.metasoft.pe/"><img src="https://img.shields.io/badge/Sitio_web-metasoft.pe-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=60a5fa&labelColor=0d1526" alt="Sitio web" /></a>
+  <a href="https://www.linkedin.com/in/janover-salda%C3%B1a-6a72a6338"><img src="https://img.shields.io/badge/LinkedIn-Janover_Saldaña-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1526" alt="LinkedIn" /></a>
+  <a href="mailto:janover@metasoft.pe"><img src="https://img.shields.io/badge/Email-janover@metasoft.pe-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1526" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Lima,_Perú-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lima, Perú" />
 </p>
